@@ -1,0 +1,353 @@
+[
+    {
+        "id": 1,
+        "date": "2024-07-04",
+        "question": "When performing POCUS triage for undifferentiated shock, what is the recommended initial assessment approach?",
+        "choices": [
+            "Complete echocardiogram with all views and measurements",
+            "Focused cardiac + IVC + lung sweep taking approximately 5 minutes",
+            "Abdominal scan to rule out free fluid first",
+            "Carotid ultrasound to assess blood flow"
+        ],
+        "correct": 1,
+        "explanation": "The key to POCUS in shock is a rapid, focused assessment. A 5-minute cardiac + IVC + lung sweep provides crucial information to guide immediate management decisions."
+    },
+    {
+        "id": 2,
+        "date": "2024-07-04",
+        "question": "According to IVC assessment guidelines, which finding suggests low CVP and likely hypovolemia?",
+        "choices": [
+            "Diameter > 2.0 cm with < 10% inspiratory collapse",
+            "Diameter < 1.5 cm with > 50% inspiratory collapse",
+            "Diameter between 1.5-2.0 cm with 25% collapse",
+            "Any diameter with no respiratory variation"
+        ],
+        "correct": 1,
+        "explanation": "Small IVC diameter (<1.5 cm) combined with significant respiratory collapse (>50%) indicates low central venous pressure and hypovolemia. This finding supports fluid resuscitation."
+    },
+    {
+        "id": 3,
+        "date": "2024-07-04",
+        "question": "Why is it important to pair lung and cardiac POCUS views in clinical assessment?",
+        "choices": [
+            "To save time by doing both scans simultaneously",
+            "To prevent single-organ anchoring and improve diagnostic accuracy",
+            "Because the same probe can be used for both",
+            "To satisfy hospital documentation requirements"
+        ],
+        "correct": 1,
+        "explanation": "Pairing views prevents diagnostic anchoring. For example, consolidation with air-bronchograms + hyperdynamic heart suggests sepsis, while B-lines + poor LV function suggests cardiogenic pulmonary edema."
+    },
+    {
+        "id": 4,
+        "date": "2024-07-04",
+        "question": "Which four core cardiac POCUS views should be mastered before Block 3?",
+        "choices": [
+            "Apical 4-chamber, parasternal long, parasternal short, and subcostal views",
+            "Apical 2-chamber, apical 3-chamber, parasternal long, and parasternal short",
+            "Subcostal only, as it provides all necessary information",
+            "Suprasternal, right parasternal, left parasternal, and apical"
+        ],
+        "correct": 0,
+        "explanation": "The four core views are: Apical 4-chamber (global function, chamber sizes), Parasternal long (LVOT, pericardium), Parasternal short at papillary level (regional motion), and Subcostal 4-chamber + IVC."
+    },
+    {
+        "id": 5,
+        "date": "2024-07-04",
+        "question": "What are the key red flags for cardiac tamponade when assessing pericardial effusion?",
+        "choices": [
+            "Any visible pericardial fluid regardless of amount",
+            "Effusion > 2 cm circumferential OR right atrial diastolic collapse",
+            "Small effusion with normal vital signs",
+            "Pericardial effusion only in the dependent portions"
+        ],
+        "correct": 1,
+        "explanation": "Large circumferential effusions (>2 cm) or any RA diastolic collapse are tamponade red flags requiring immediate cardiology consultation. These patients are preload-dependent."
+    },
+    {
+        "id": 6,
+        "date": "2024-07-04",
+        "question": "What do lung ultrasound B-lines ('headlights') indicate?",
+        "choices": [
+            "Normal aerated lung tissue",
+            "Pneumothorax presence",
+            "Interstitial fluid, blood, or cellular infiltrate AND rules out pneumothorax",
+            "Pleural effusion only"
+        ],
+        "correct": 2,
+        "explanation": "B-lines indicate interstitial processes (fluid, blood, or cells) and their presence rules out pneumothorax. They appear as vertical hyperechoic lines extending from pleura to screen edge."
+    },
+    {
+        "id": 7,
+        "date": "2024-07-04",
+        "question": "Before performing thoracentesis or paracentesis, what ultrasound finding confirms safe needle insertion?",
+        "choices": [
+            "Any visible fluid collection",
+            "3 cm anechoic window without liver or spleen in view",
+            "1 cm fluid collection is sufficient",
+            "Visualization of organs confirms anatomy"
+        ],
+        "correct": 1,
+        "explanation": "A 3 cm anechoic (fluid) window without liver/spleen in the needle path reduces organ puncture risk by >80%. Real-time guidance is essential for safety."
+    },
+    {
+        "id": 8,
+        "date": "2024-07-04",
+        "question": "For ultrasound-guided peripheral IV access, what is the recommended catheter length and preferred target vein?",
+        "choices": [
+            "2 cm catheter, targeting cephalic vein",
+            "4.5-6 cm catheter, targeting basilic vein first",
+            "Standard short catheter, any visible vein",
+            "3 cm catheter, targeting median cubital vein"
+        ],
+        "correct": 1,
+        "explanation": "Use 4.5-6 cm catheters for durability (survives 3+ days of antibiotics). Target basilic vein first as it's rarely scarred from previous attempts. Use linear probe for best visualization."
+    },
+    {
+        "id": 9,
+        "date": "2024-07-04",
+        "question": "What is the 2-point compression technique for DVT screening?",
+        "choices": [
+            "Compress common femoral vein and popliteal vein behind knee",
+            "Compress both legs simultaneously at the thigh",
+            "Compress ankle and calf veins only",
+            "Apply compression stockings and reassess"
+        ],
+        "correct": 0,
+        "explanation": "Compress CFV in groin and popliteal vein behind knee. Non-collapsing veins suggest DVT and warrant anticoagulation pending formal duplex study the next morning."
+    },
+    {
+        "id": 10,
+        "date": "2024-07-04",
+        "question": "According to the program resources, when do evening hands-on POCUS sessions with Raghu begin?",
+        "choices": [
+            "Block 1",
+            "Block 2",
+            "Block 3",
+            "Block 4"
+        ],
+        "correct": 2,
+        "explanation": "Evening hands-on sessions with Raghu start in Block 3. Early RSVP is recommended as sessions fill quickly. The 2-week POCUS selective is also available in Blocks 3 & 4."
+    },
+    {
+        "id": 11,
+        "date": "2024-07-04",
+        "question": "What is a critical limitation of POCUS that residents must remember?",
+        "choices": [
+            "POCUS is only useful in the ICU setting",
+            "POCUS supplements but never substitutes formal studies for high-stakes diagnoses",
+            "POCUS can only be performed by attending physicians",
+            "POCUS requires contrast agents for accuracy"
+        ],
+        "correct": 1,
+        "explanation": "POCUS supplements clinical assessment but cannot replace formal studies for high-stakes diagnoses. All findings require credentialed supervisor confirmation or should guide only low-risk interventions."
+    },
+    {
+        "id": 12,
+        "date": "2024-07-04",
+        "question": "According to the central line placement guidelines mentioned, which statement is correct?",
+        "choices": [
+            "All central lines require attending presence regardless of location",
+            "Residents may place femoral lines independently but must notify attending",
+            "Only subclavian lines can be placed independently",
+            "Central lines are prohibited for residents"
+        ],
+        "correct": 1,
+        "explanation": "Residents may place IJ/subclavian lines only with attending present, but femoral lines can be placed solo with attending notification. This maintains safety while allowing graduated responsibility."
+    },
+    {
+        "id": 13,
+        "date": "2025-06-25",
+        "question": "According to the 'opt-out' universal screening approach for HIV, what is the most effective way to offer testing to an adult patient?",
+        "choices": [
+            "We are required to test you for HIV.",
+            "Do you have any risk factors for HIV like unprotected sex or IV drug use?",
+            "We routinely screen all our patients for HIV and Hepatitis C. Is that okay with you?",
+            "We only screen patients who request an HIV test."
+        ],
+        "correct": 2,
+        "explanation": "Using 'opt-out' language like 'We routinely screen all our patients...' normalizes the test and is far more effective than risk-factor-based screening, which can miss up to 60% of cases."
+    },
+    {
+        "id": 14,
+        "date": "2025-06-25",
+        "question": "A patient is newly diagnosed with HIV in the hospital. Which of the following lab panels is essential to order for initial management?",
+        "choices": [
+            "HIV Viral Load, CD4 Count, and Western Blot only.",
+            "CD4 Count, Complete Blood Count, and a Liver Function Panel.",
+            "HIV Viral Load, CD4 Count, HIV Genotype, and Hepatitis B Surface Antigen.",
+            "HIV Antibody screen and a repeat HIV RNA in 4 weeks."
+        ],
+        "correct": 2,
+        "explanation": "The essential initial lab panel for a new HIV diagnosis includes HIV Viral Load, CD4 Count, HIV Genotype (for resistance testing), HBsAg, and a Hep C screen to guide ART selection and OI prophylaxis."
+    },
+    {
+        "id": 15,
+        "date": "2025-06-25",
+        "question": "A patient on a ritonavir-boosted ART regimen is admitted for an asthma exacerbation. Which medication class requires extreme caution due to a high risk of iatrogenic Cushing's syndrome?",
+        "choices": [
+            "Beta-agonists (e.g., albuterol)",
+            "Inhaled, intranasal, or injected steroids (e.g., fluticasone)",
+            "Anticholinergics (e.g., ipratropium)",
+            "Antibiotics (e.g., azithromycin)"
+        ],
+        "correct": 1,
+        "explanation": "Boosted regimens with ritonavir or cobicistat are potent CYP3A4 inhibitors. Co-administration with steroids (like fluticasone) can dramatically increase steroid levels, leading to iatrogenic Cushing's or adrenal suppression."
+    },
+    {
+        "id": 16,
+        "date": "2025-06-27",
+        "question": "A patient presents with a wide-complex tachycardia and is hypotensive with altered mental status. What is the most appropriate immediate action?",
+        "choices": [
+            "Administer IV amiodarone and wait for it to take effect.",
+            "Perform immediate synchronized cardioversion.",
+            "Attempt vagal maneuvers while getting a 12-lead EKG.",
+            "Administer IV adenosine to diagnose the rhythm."
+        ],
+        "correct": 1,
+        "explanation": "For any unstable tachyarrhythmia, regardless of the specific rhythm, the correct immediate action is synchronized cardioversion to restore hemodynamic stability. Delaying for diagnosis or medications can be harmful."
+    },
+    {
+        "id": 17,
+        "date": "2025-06-27",
+        "question": "For safety, a stable wide-complex tachycardia should always be treated as what until proven otherwise?",
+        "choices": [
+            "SVT with aberrancy",
+            "Ventricular Tachycardia (VT)",
+            "Atrial fibrillation with RVR and a bundle branch block",
+            "Electrolyte-induced artifact"
+        ],
+        "correct": 1,
+        "explanation": "The golden rule is to assume WCT is VT until proven otherwise, as 80% of cases are VT. Treating SVT with aberrancy as VT is generally safe, but the reverse (treating VT as SVT with CCBs) can be lethal."
+    },
+    {
+        "id": 18,
+        "date": "2025-06-27",
+        "question": "What is the effect of placing a 'donut' magnet over a patient's implanted cardioverter-defibrillator (ICD)?",
+        "choices": [
+            "It forces the device to pace asynchronously at a fixed rate.",
+            "It deactivates the ICD's ability to deliver shocks, but does not affect its pacing function.",
+            "It completely deactivates the entire device, including pacing and shocking.",
+            "It triggers an immediate, full-energy shock to test the device."
+        ],
+        "correct": 1,
+        "explanation": "A magnet's function is different for pacemakers and ICDs. On an ICD, it only deactivates the anti-tachycardia therapies (shocks). It does not affect the device's underlying pacing function. This is critical for managing inappropriate shocks."
+    },
+    {
+        "id": 19,
+        "date": "2025-06-30",
+        "question": "A patient is admitted with a NSTEMI. When is the most appropriate time to initiate beta-blocker therapy?",
+        "choices": [
+            "Immediately upon arrival in the ED, before any other medications.",
+            "After the patient is hemodynamically stable, usually post-revascularization.",
+            "Only if the patient develops hypertension.",
+            "Never, as beta-blockers are contraindicated in MI."
+        ],
+        "correct": 1,
+        "explanation": "While crucial for long-term care, giving beta-blockers upfront in an acute MI increases the risk of cardiogenic shock (COMMIT trial). The correct approach is to wait until the patient is stable, typically after PCI."
+    },
+    {
+        "id": 20,
+        "date": "2025-06-30",
+        "question": "A patient with chest pain has an EKG showing ST depressions in leads V1-V4. This is a STEMI-equivalent for what condition, requiring immediate cath lab activation?",
+        "choices": [
+            "Wellens' Syndrome",
+            "Anterolateral MI",
+            "Inferior MI with RV involvement",
+            "Posterior Wall MI"
+        ],
+        "correct": 3,
+        "explanation": "ST depressions in the anterior precordial leads (V1-V4) are the 'mirror image' of ST elevations on the posterior wall. This is a STEMI-equivalent representing an occluded vessel and requires emergent revascularization."
+    },
+    {
+        "id": 21,
+        "date": "2025-06-30",
+        "question": "Before administering antithrombotic therapy for a suspected ACS, what 'can't-miss' diagnosis must be ruled out to avoid a catastrophic outcome?",
+        "choices": [
+            "Costochondritis",
+            "Gastroesophageal reflux disease (GERD)",
+            "Aortic Dissection",
+            "Anxiety attack"
+        ],
+        "correct": 2,
+        "explanation": "Administering heparin and potent antiplatelet agents to a patient with an aortic dissection can be fatal. It is the most critical ACS mimicker to consider before committing to an antithrombotic strategy."
+    },
+    {
+        "id": 22,
+        "date": "2025-07-01",
+        "question": "A patient is in a room with a 'Contact+' isolation sign for C. difficile. What is the mandatory hand hygiene procedure upon leaving the room?",
+        "choices": [
+            "Use alcohol-based foam.",
+            "Use soap and water.",
+            "Use either foam or soap and water.",
+            "No hand hygiene is needed if gloves were worn."
+        ],
+        "correct": 1,
+        "explanation": "Alcohol-based foam is ineffective against C. difficile spores. The required protocol after any C. diff encounter is to wash hands thoroughly with soap and water."
+    },
+    {
+        "id": 23,
+        "date": "2025-07-01",
+        "question": "According to diagnostic stewardship principles, which of the following is an appropriate reason to send a urine culture?",
+        "choices": [
+            "The patient is elderly and has new-onset confusion.",
+            "The urine in the Foley bag appears cloudy and has a strong odor.",
+            "The patient has dysuria, frequency, and a urinalysis shows pyuria.",
+            "The patient has a chronic indwelling catheter and asks for a routine culture."
+        ],
+        "correct": 2,
+        "explanation": "Urine cultures should only be sent for clear symptoms of a UTI (like dysuria, frequency). Asymptomatic bacteriuria is common and should not be treated; confusion, falls, and smelly/cloudy urine are not reliable indicators of UTI."
+    },
+    {
+        "id": 24,
+        "date": "2025-07-01",
+        "question": "When obtaining blood cultures to investigate for bacteremia, what is the best practice to minimize contamination?",
+        "choices": [
+            "Draw one set from a peripheral stick and one from an existing central line.",
+            "Draw two sets of cultures from two separate peripheral venipuncture sites.",
+            "Draw one large-volume bottle from a single peripheral stick.",
+            "Draw the cultures from the port of a newly placed peripheral IV."
+        ],
+        "correct": 1,
+        "explanation": "Drawing from a central line significantly increases the rate of contamination, leading to unnecessary antibiotics. The standard of care is to obtain two sets of cultures from two different peripheral sites."
+    },
+    {
+        "id": 25,
+        "date": "2025-07-02",
+        "question": "A patient with known cirrhosis presents with massive hematemesis. In addition to IV fluids, a PPI, and blood products, what other medication should be started immediately for a suspected variceal bleed?",
+        "choices": [
+            "IV Metoclopramide as a prokinetic",
+            "IV Furosemide to reduce ascites pressure",
+            "An IV Octreotide drip to reduce splanchnic blood flow",
+            "An IV Heparin drip to prevent portal vein thrombosis"
+        ],
+        "correct": 2,
+        "explanation": "In a suspected variceal bleed, an octreotide drip is critical. It reduces splanchnic blood flow and portal pressures, helping to control hemorrhage. This should be added to the standard PPI therapy."
+    },
+    {
+        "id": 26,
+        "date": "2025-07-02",
+        "question": "What is the recommended hemoglobin (Hgb) threshold for transfusing PRBCs in most stable patients with a GI bleed?",
+        "choices": [
+            "10 g/dL",
+            "9 g/dL",
+            "8 g/dL",
+            "7 g/dL"
+        ],
+        "correct": 3,
+        "explanation": "A restrictive transfusion strategy (transfusing for Hgb < 7 g/dL) is the standard of care. Over-transfusing can increase portal pressures and potentially worsen bleeding without improving outcomes."
+    },
+    {
+        "id": 27,
+        "date": "2025-07-02",
+        "question": "A stable patient is admitted with brisk, large-volume hematochezia. What is often the best initial diagnostic test to localize the source of the lower GI bleed?",
+        "choices": [
+            "An emergent, unprepped colonoscopy.",
+            "A tagged red blood cell scan.",
+            "A CT Angiogram (CTA) of the abdomen and pelvis.",
+            "A video capsule endoscopy."
+        ],
+        "correct": 2,
+        "explanation": "For active, brisk lower GI bleeding, a CTA is the preferred initial test. It is fast, does not require a bowel prep, and can accurately localize the site of extravasation to guide targeted intervention by IR or endoscopy."
+    }
+]
