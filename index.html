@@ -1,0 +1,103 @@
+<head>
+    <!-- Firebase SDK from CDN -->
+
+
+    <script type="module" src="https://www.gstatic.com/firebasejs/8.0.0/firebase-app.js"></script>
+    <script type="module" src="https://www.gstatic.com/firebasejs/8.0.0/firebase-firestore.js"></script>
+    <script type="module" src="https://www.gstatic.com/firebasejs/8.0.0/firebase-functions.js"></script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+
+    <style>
+        #scores div {
+            margin-bottom: 5px; /* Adds a little space between each score line */
+        }
+
+        #score-red {
+            color: red;
+            font-weight: bold;
+        }
+
+        #score-white {
+            color: black; /* Adjust if you have a specific color for the white team */
+            font-weight: bold;
+        }
+
+        #score-blue {
+            color: blue;
+            font-weight: bold;
+        }
+
+        #score-crimson {
+            color: crimson;
+            font-weight: bold;
+        }
+
+        #total-score {
+            font-size: larger;
+            font-weight: bold;
+            margin-bottom: 20px; /* Space between the scores and the question */
+        }
+
+        #experimental-system-notice {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 1px solid #dcdcdc;
+    border-radius: 5px;
+}
+
+        #choices-container label {
+            display: block;
+            margin: 5px 0;
+        }
+
+        #explanation {
+            margin-top: 10px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            background-color: #f9f9f9;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="scores">
+         <h2>Collective Learning</h2> <!-- Heading for Collective Learning -->
+        <div id="score-red">Red Team: <span></span></div>
+        <div id="score-white">White Team: <span></span></div>
+        <div id="score-blue">Blue Team: <span></span></div>
+        <div id="score-crimson">Crimson Team: <span></span></div>
+        <div id="total-score">Total Score: <span></span></div>
+    </div>
+
+    <div id="quiz-container">
+        <div id="question"></div>
+        <div id="choices-container">
+            <!-- Choices will be dynamically inserted here -->
+        </div>
+        <br>
+        <button id="submit">Check Answer</button>
+        <div id="feedback"></div>
+        <div id="explanation" style="display:none;"></div>
+    </div>
+
+    <div id="team-options" style="display:none;">
+        <p>Select a team to score a point:</p>
+        <button class="team-button" data-team="Red">Red Team</button>
+        <button class="team-button" data-team="White">White Team</button>
+        <button class="team-button" data-team="Blue">Blue Team</button>
+        <button class="team-button" data-team="Crimson">Crimson Team</button>
+    </div>
+
+    <!-- New div for the message -->
+<div id="experimental-system-notice">
+    <p>This is a strictly experimental system to deliver microknowledge that is specific to documentation and later perhaps other relevant things. It is for demonstration purposes only at this time. The information still needs to be vetted for accuracy.</p>
+</div>
+    
+    <!-- Your script file -->
+    <script src="script.js"></script>
+</body>
+</html>
