@@ -349,5 +349,57 @@
         ],
         "correct": 2,
         "explanation": "For active, brisk lower GI bleeding, a CTA is the preferred initial test. It is fast, does not require a bowel prep, and can accurately localize the site of extravasation to guide targeted intervention by IR or endoscopy."
+    },
+    {
+        "id": 28,
+        "date": "2025-07-07",
+        "question": "According to recent data, what percentage of patients who experience an in-hospital cardiac arrest survive to be discharged with minimal cognitive or functional deficits?",
+        "choices": [
+            "Approximately 50%",
+            "22-25%",
+            "15-18%",
+            "Less than 5%"
+        ],
+        "correct": 2,
+        "explanation": "While around 22-25% of patients may survive to hospital discharge, only 15-18% do so with minimal cognitive or functional deficits. This is a key statistic for framing realistic, outcome-focused conversations with patients."
+    },
+    {
+        "id": 29,
+        "date": "2025-07-07",
+        "question": "When using the 'CPR' framework for structuring code status discussions, what does the 'P' stand for?",
+        "choices": [
+            "Permission and Plan",
+            "Patient Values and Priorities",
+            "Prepare for the aPproaching conversation",
+            "Provide Prognosis and assess Preferences"
+        ],
+        "correct": 3,
+        "explanation": "The 'CPR' framework is C: Check for prior documentation, P: Provide a realistic prognosis & assess the patient's preferences, and R: Make a Recommendation based on their preferences. The 'P' step is central to the shared decision-making process."
+    },
+    {
+        "id": 30,
+        "date": "2025-07-07",
+        "question": "When discussing code status, what neutral framing technique is recommended to avoid biasing a patient's decision after presenting the prognosis?",
+        "choices": [
+            "Asking directly, 'Given the low chances, do you still want us to do everything?'",
+            "Using the 'Some people say... and other people say...' approach.",
+            "Recommending the choice you believe is medically appropriate first.",
+            "Describing the most aggressive option in more detail."
+        ],
+        "correct": 1,
+        "explanation": "The 'Some people say... other people say...' technique normalizes both choices (e.g., pursuing aggressive care vs. focusing on comfort), giving the patient permission to select the option that best fits their values without feeling judged or pressured."
+    },
+    {
+        "id": 31,
+        "date": "2025-07-07",
+        "question": "Which of the following is an externally validated scoring tool used to help objectively predict survival after an in-hospital cardiac arrest?",
+        "choices": [
+            "The APACHE II score",
+            "The GO-FAR score",
+            "The SOFA score",
+            "The MELD-Na score"
+        ],
+        "correct": 1,
+        "explanation": "The GO-FAR (Good Outcome Following Attempted Resuscitation) score is a validated tool designed specifically to predict outcomes after in-hospital cardiac arrest, serving as an objective resource for clinicians during goals of care discussions."
     }
 ]
