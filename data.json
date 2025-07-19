@@ -402,7 +402,7 @@
         "correct": 1,
         "explanation": "The GO-FAR (Good Outcome Following Attempted Resuscitation) score is a validated tool designed specifically to predict outcomes after in-hospital cardiac arrest, serving as an objective resource for clinicians during goals of care discussions."
     },
-     {
+{
         "id": 32,
         "date": "2025-07-08",
         "question": "According to Dr. Celaj, what are the three key clinical events that define the transition from compensated to decompensated cirrhosis?",
@@ -519,7 +519,7 @@
         "correct": 1,
         "explanation": "Dr. Celaj states that the predominant cause of acute liver failure in the US is Tylenol, accounting for '9 out of 10 times'. This is a critical diagnosis to consider in any patient presenting with acute liver injury, coagulopathy, and encephalopathy without pre-existing liver disease. (Timestamp: 12:37)"
     },
-	{
+    {
         "id": 41,
         "date": "2025-07-09",
         "question": "A 30-year-old patient with Down syndrome presents with chronic loose stools and anemia. Her previous doctor attributed this to her underlying condition. According to Dr. Bulova's opening case, what common, treatable autoimmune condition should be strongly considered?",
@@ -583,5 +583,369 @@
         ],
         "correct": 2,
         "explanation": "Dr. Ehrenberger emphasizes that shunt malfunction symptoms tend to be stereotypical for each individual patient. Asking 'When was the last time you had a shunt malfunction and what did it look like?' is a key question, as one person's pattern (e.g., headache and clumsiness) may differ from another's (e.g., eye pain and nausea). (Timestamp: 43:28)"
+    },
+    {
+        "id": 46,
+        "date": "2025-07-10",
+        "question": "A 62-year-old man presents with chest pressure that he describes as intermittent and not clearly related to exertion. According to the updated chest pain guidelines discussed in the lecture, which of the following is the most appropriate way to classify his pain in the medical record?",
+        "choices": [
+            "Atypical chest pain",
+            "Non-anginal chest pain",
+            "Possibly cardiac chest pain",
+            "Non-specific chest pain"
+        ],
+        "correct": 2,
+        "explanation": "The lecturer explicitly states that the guidelines request avoiding the term 'atypical' (timestamp ~5:35). The pain should be classified as cardiac, non-cardiac, or, in ambiguous cases like this, 'possibly cardiac'."
+    },
+    {
+        "id": 47,
+        "date": "2025-07-10",
+        "question": "An 80-year-old woman admitted for a GI bleed becomes tachycardic and hypotensive, with new diffuse ST depressions on her EKG. Her high-sensitivity troponin rises from a baseline of 30 ng/L to 150 ng/L and then falls. She denies chest pain. Based on the lecture's clarification, what is the most accurate diagnosis?",
+        "choices": [
+            "Type 1 Myocardial Infarction",
+            "Type 2 Myocardial Infarction",
+            "Acute Myocardial Injury",
+            "Chronic Myocardial Injury"
+        ],
+        "correct": 1,
+        "explanation": "The lecture clarifies that a rise and fall of troponin due to a clear supply-demand mismatch (e.g., shock from a GI bleed) in the context of ischemia (evidenced by new ST depressions) is a Type 2 MI. If there were no evidence of ischemia, it would be classified as 'Acute Myocardial Injury'. (timestamp ~8:45)"
+    },
+    {
+        "id": 48,
+        "date": "2025-07-10",
+        "question": "A 67-year-old male with a history of CABG 10 years ago presents with new, progressive angina. His troponins are negative. According to the diagnostic pathways presented, which test is most preferred for his workup?",
+        "choices": [
+            "Coronary CT Angiography (CCTA)",
+            "A functional stress test with imaging (e.g., SPECT or Stress Echo)",
+            "A standard exercise EKG treadmill test",
+            "Immediate invasive coronary angiography"
+        ],
+        "correct": 1,
+        "explanation": "The lecture states that for patients with known obstructive CAD, especially complex anatomy like a prior CABG, a stress test with imaging is preferred over an anatomic test like CCTA to identify the location and extent of ischemia (timestamp ~23:57, 26:53)."
+    },
+    {
+        "id": 49,
+        "date": "2025-07-10",
+        "question": "A 50-year-old woman with an intermediate HEART score is evaluated for acute chest pain. A Coronary CTA is performed, revealing mild, non-obstructive (<30%) plaque in her LAD and circumflex arteries. According to the lecture, what is the most significant long-term benefit of obtaining this result?",
+        "choices": [
+            "It allows for immediate discharge without further intervention.",
+            "It rules out the need for an invasive angiogram in the future.",
+            "It identifies the patient as high-risk for a future MI, prompting revascularization.",
+            "It identifies the presence of CAD, prompting initiation of preventative therapies like statins."
+        ],
+        "correct": 3,
+        "explanation": "The lecture highlights that a major advantage of CCTA is its ability to detect non-obstructive plaque. This finding identifies a patient at increased long-term risk and provides a clear indication to start or intensify preventative medical therapy (statins, aspirin), which has been shown to reduce future MIs (timestamp ~49:55-50:12)."
+    },
+    {
+        "id": 50,
+        "date": "2025-07-10",
+        "question": "A resident needs to order a CT scan to evaluate for coronary artery disease in an admitted patient. To ensure the correct, EKG-gated study is performed, what is the most appropriate way to place the order in the EMR?",
+        "choices": [
+            "CT Chest with IV contrast",
+            "CT Angiogram of the Chest",
+            "Triple Rule-Out CT Chest",
+            "Coronary CTA (or Cardiac CT)"
+        ],
+        "correct": 3,
+        "explanation": "The lecturer gives a strong practical warning that a specific 'Coronary CTA' or 'Cardiac CT' order must be placed. Ordering a generic 'CT chest with contrast' or even a 'CT Angiogram' will often default to a non-gated protocol unsuitable for visualizing the coronary arteries (timestamp ~55:39)."
+    },
+    {
+        "id": 51,
+        "date": "2025-07-10",
+        "question": "A patient with a high-risk ACS presentation (dynamic EKG changes, elevated troponin) undergoes an invasive angiogram that shows no obstructive coronary disease. According to the lecturer, which of the following is a highly recommended next step to investigate the etiology?",
+        "choices": [
+            "Discharge with a diagnosis of vasospastic angina.",
+            "A nuclear perfusion stress test.",
+            "Cardiac MRI (CMR).",
+            "A 30-day event monitor."
+        ],
+        "correct": 2,
+        "explanation": "For high-risk patients with features of ACS but non-obstructive coronaries on angiography (a condition known as MINOCA), the lecture recommends further myocardial imaging. Cardiac MRI (CMR) is specifically mentioned as being very good for identifying alternative diagnoses like myocarditis, takotsubo cardiomyopathy, or embolic events (timestamp ~25:54-26:28)."
+    },
+    {
+        "id": 52,
+        "date": "2025-07-14",
+        "question": "A 72-year-old male with known metastatic prostate cancer to the bone develops acute lower extremity paralysis. On exam, he has flaccid paralysis and a sensory level at T4. What is the most critical first step in management?",
+        "choices": [
+            "Obtain a STAT MRI of the thoracic and lumbar spine",
+            "Give dexamethasone 10 mg IV",
+            "Place an emergent neurosurgery consult",
+            "Start empiric radiation therapy"
+        ],
+        "correct": 1,
+        "explanation": "The lecture repeatedly emphasizes that for suspected malignant spinal cord compression, the first and most critical action is to administer high-dose steroids (dexamethasone 10 mg IV) to reduce edema and preserve neurologic function. This should be done immediately, while concurrently arranging for imaging and consults. (timestamp ~1:52)"
+    },
+    {
+        "id": 53,
+        "date": "2025-07-14",
+        "question": "A patient with high-grade lymphoma is undergoing chemotherapy and develops tumor lysis syndrome. Despite aggressive IV fluids, their phosphorus level is 9.5 mg/dL and creatinine is rising. According to the lecture, which intervention is most effective for managing severe, refractory hyperphosphatemia?",
+        "choices": [
+            "Starting an oral phosphate binder like sevelamer",
+            "Administering a dose of rasburicase",
+            "Increasing the dose of allopurinol",
+            "Initiating dialysis after a nephrology consult"
+        ],
+        "correct": 3,
+        "explanation": "The lecturer notes that while phosphate binders are used, they are not effective for treating a large, existing phosphorus burden. For refractory hyperphosphatemia, especially with concurrent AKI, dialysis is the most effective treatment to rapidly clear phosphate. (timestamp ~19:31-19:47)"
+    },
+    {
+        "id": 54,
+        "date": "2025-07-14",
+        "question": "A 25-year-old with newly diagnosed AML has a WBC of 150,000/μL. He becomes acutely short of breath and his chest x-ray shows new bilateral infiltrates. Which of the following is the most appropriate immediate action?",
+        "choices": [
+            "Transfuse one unit of packed red blood cells for potential anemia.",
+            "Administer a dose of hydroxyurea and wait 24 hours for it to take effect.",
+            "Arrange for emergent leukapheresis.",
+            "Start broad-spectrum antibiotics and await blood culture results."
+        ],
+        "correct": 2,
+        "explanation": "This patient has clinical signs of leukostasis (pulmonary symptoms). The lecture states that leukapheresis provides immediate physical removal of white blood cells and is the priority intervention. Hydroxyurea is also used, but its onset is too slow for this emergent situation. RBC transfusion should be avoided as it can worsen viscosity. (timestamp ~29:46-30:17)"
+    },
+    {
+        "id": 55,
+        "date": "2025-07-14",
+        "question": "A 76-year-old male with a 150 pack-year smoking history presents with facial plethora, neck swelling, and dilated chest wall veins. A CT scan reveals a large right paratracheal mass encasing the SVC. The patient is hemodynamically stable without neurologic symptoms. What is the most important management priority?",
+        "choices": [
+            "Emergent stent placement by interventional radiology.",
+            "Obtaining a tissue biopsy of the mass.",
+            "Starting empiric radiation therapy to the mediastinum.",
+            "Administering steroids and diuretics for symptom relief."
+        ],
+        "correct": 1,
+        "explanation": "The lecture stresses that despite the striking presentation, SVC syndrome is rarely fatal and the management priority is to obtain a tissue diagnosis to guide definitive therapy. Treating emergently with radiation or a stent is reserved for the rare cases of airway compromise or severe cerebral edema, and may compromise the ability to get a diagnosis. (timestamp ~48:34)"
+    },
+    {
+        "id": 56,
+        "date": "2025-07-14",
+        "question": "A patient with newly diagnosed multiple myeloma presents with a corrected calcium of 14.5 mg/dL, AKI, and confusion. After starting aggressive IV fluid hydration, which medication should be administered concurrently to provide durable, long-term control of the hypercalcemia?",
+        "choices": [
+            "Furosemide",
+            "Calcitonin",
+            "A bisphosphonate (e.g., zoledronate)",
+            "High-dose corticosteroids"
+        ],
+        "correct": 2,
+        "explanation": "The lecture explains that while aggressive hydration is the first step and calcitonin can be used as a short-term bridge, a bisphosphonate is essential for long-term control. It should be given immediately, as its onset of action is 2-3 days. (timestamp ~40:05-40:36)"
+    },
+    {
+        "id": 57,
+        "date": "2025-07-14",
+        "question": "When choosing an IV fluid for tumor lysis syndrome (TLS) prophylaxis, why are bicarbonate-containing fluids generally avoided?",
+        "choices": [
+            "They increase the risk of calcium phosphate crystal deposition.",
+            "They are less effective than normal saline at clearing uric acid.",
+            "They can cause a paradoxical metabolic acidosis.",
+            "They significantly worsen hyperkalemia."
+        ],
+        "correct": 0,
+        "explanation": "The lecture explains that while bicarbonate alkalinizes the urine to help prevent uric acid stones, it simultaneously enhances the precipitation of calcium phosphate crystals, which can also cause severe kidney injury. Therefore, normal saline is the preferred fluid. (timestamp ~16:25-16:37)"
+    },
+    {
+        "id": 58,
+        "date": "2025-07-15",
+        "question": "According to the updated 2024 guidelines discussed in the lecture, which of the following is the primary criterion for determining that DKA has resolved and an insulin drip can be discontinued?",
+        "choices": [
+            "The anion gap has closed to <12.",
+            "The blood glucose is <200 mg/dL.",
+            "The urine ketones are negative.",
+            "The serum bicarbonate is ≥18 mmol/L and the pH is >7.3."
+        ],
+        "correct": 3,
+        "explanation": "The lecturer explicitly states that the new guidelines have removed the anion gap as a primary criterion for resolution. The focus is now on the correction of the acidosis, indicated by normalization of the serum bicarbonate and pH, along with the patient's clinical improvement. (timestamp ~3:45, 12:47)"
+    },
+    {
+        "id": 59,
+        "date": "2025-07-15",
+        "question": "A patient is admitted with DKA. Initial labs show a glucose of 450 mg/dL, a pH of 7.15, and a potassium of 3.1 mEq/L. After giving a 1L bolus of normal saline, what is the most appropriate next step?",
+        "choices": [
+            "Administer an IV insulin bolus of 0.1 units/kg.",
+            "Start an insulin infusion at 0.1 units/kg/hr.",
+            "Administer IV potassium before starting any insulin.",
+            "Give one ampule of sodium bicarbonate."
+        ],
+        "correct": 2,
+        "explanation": "The lecturer highlights that if the initial potassium is low, it is critical to replete it before starting insulin. Insulin will cause an intracellular shift of potassium, worsening the hypokalemia and risking cardiac arrhythmia. (timestamp ~16:47, 18:30)"
+    },
+    {
+        "id": 60,
+        "date": "2025-07-15",
+        "question": "Which of the following patients is the best candidate for a subcutaneous DKA protocol instead of an IV insulin drip, according to the lecture?",
+        "choices": [
+            "A patient with HHS and a serum osmolality of 340 mOsm/kg.",
+            "A patient with a pH of 6.98 who is stuporous.",
+            "A patient with a pH of 7.28 who is alert and asking for food.",
+            "A patient with ESRD and a pH of 7.20."
+        ],
+        "correct": 2,
+        "explanation": "The lecture specifies that the subcutaneous DKA protocol is only appropriate for patients with mild DKA (pH >7.25, bicarb >15) who have no altered mental status and are on a floor or step-down unit with adequate nursing support. (timestamp ~23:00, 26:30)"
+    },
+    {
+        "id": 61,
+        "date": "2025-07-15",
+        "question": "You are preparing to transition a patient off an IV insulin drip to subcutaneous insulin. What is the correct procedure for this transition?",
+        "choices": [
+            "Stop the insulin drip, then administer the first dose of subcutaneous basal insulin one hour later.",
+            "Administer the subcutaneous basal insulin and stop the insulin drip simultaneously.",
+            "Administer the subcutaneous basal insulin and continue the insulin drip for another two hours.",
+            "Reduce the insulin drip rate by 50% for four hours after giving the first subcutaneous dose."
+        ],
+        "correct": 2,
+        "explanation": "The lecturer emphasizes the need to overlap the subcutaneous basal insulin with the IV insulin drip for two hours. This is because it takes about two hours for the subcutaneous insulin to be absorbed and become therapeutic, and this overlap prevents a gap in insulin coverage. (timestamp ~29:20)"
+    },
+    {
+        "id": 62,
+        "date": "2025-07-15",
+        "question": "A 58-year-old patient with type 2 diabetes on empagliflozin (Jardiance) presents to the ED with nausea, vomiting, and malaise after a prolonged fast. Labs show a glucose of 185 mg/dL, a bicarbonate of 14, and a pH of 7.22. What is the most likely diagnosis?",
+        "choices": [
+            "Hyperosmolar Hyperglycemic State (HHS)",
+            "Starvation ketosis",
+            "Euglycemic Diabetic Ketoacidosis (DKA)",
+            "Lactic acidosis"
+        ],
+        "correct": 2,
+        "explanation": "The combination of a known SGLT-2 inhibitor, a precipitating event (fasting), significant metabolic acidosis, and a near-normal glucose level is the classic presentation of euglycemic DKA. (timestamp ~44:48)"
+    },
+    {
+        "id": 63,
+        "date": "2025-07-15",
+        "question": "A patient with type 1 diabetes on an insulin pump is scheduled for a major abdominal surgery under general anesthesia. What is the safest and most appropriate plan for their perioperative glycemic management?",
+        "choices": [
+            "Allow the patient to keep their pump on and manage it themselves in the OR.",
+            "Instruct the patient to put their pump into 'exercise' or 'sleep' mode.",
+            "Discontinue the pump and provide coverage with an IV insulin drip or a pre-planned subcutaneous basal insulin dose.",
+            "Discontinue the pump and use a sliding scale insulin protocol only."
+        ],
+        "correct": 2,
+        "explanation": "The lecturer explicitly states in the Q&A that for general anesthesia, the pump should be discontinued. Coverage must be provided with either a subcutaneous basal dose or an IV insulin drip, as the insulin in the pump is only rapid-acting and stopping it leaves the patient with no basal coverage. (timestamp ~51:20)"
+    },
+    {
+        "id": 64,
+        "date": "2025-07-16",
+        "question": "A resident is called about ST elevations on an EKG. Dr. Stokes emphasizes that before analyzing ST segments, one must follow a strict routine to avoid missing critical findings. What diagnosis did she mention is frequently overlooked when a reader is distracted by ST changes?",
+        "choices": [
+            "Atrial fibrillation",
+            "Left ventricular hypertrophy",
+            "Complete heart block",
+            "Posterior MI"
+        ],
+        "correct": 2,
+        "explanation": "Dr. Stokes explicitly uses the example of getting calls about ST changes when the underlying EKG actually shows complete heart block, which was missed because the reader did not follow a systematic approach and was distracted by the ST segments. (timestamp ~1:55)"
+    },
+    {
+        "id": 65,
+        "date": "2025-07-16",
+        "question": "An EKG shows a QRS that is positive in lead I and negative in lead aVF. According to Dr. Stokes' method, which lead should you examine next to differentiate between a normal axis and true left axis deviation?",
+        "choices": [
+            "Lead III",
+            "aVR",
+            "V1",
+            "Lead II"
+        ],
+        "correct": 3,
+        "explanation": "The lecturer provides a clear algorithm for this specific scenario. After using leads I and aVF to place the axis in the upper-left quadrant, she states to look at lead II. If lead II is negative, it confirms left axis deviation. (timestamp ~37:45)"
+    },
+    {
+        "id": 66,
+        "date": "2025-07-16",
+        "question": "To confirm a P wave is of sinus node origin, Dr. Stokes recommends looking at two specific leads. In a normal sinus rhythm, the P wave should be upright in lead II and have what characteristic morphology in lead V1?",
+        "choices": [
+            "Sharply peaked and upright",
+            "Inverted",
+            "Biphasic (initially positive, then negative)",
+            "Low amplitude and notched"
+        ],
+        "correct": 2,
+        "explanation": "The lecture explains that because the sinus node is in the top corner of the right atrium, depolarization first moves toward V1 (positive deflection from RA) and then away from V1 (negative deflection from LA), creating a classic biphasic P wave in that lead. (timestamp ~38:50)"
+    },
+    {
+        "id": 67,
+        "date": "2025-07-16",
+        "question": "When differentiating a left from a right bundle branch block, Dr. Stokes emphasizes analyzing the terminal portion of the wide QRS complex. In a classic right bundle branch block (RBBB), how does this terminal vector appear in leads V1 and V6?",
+        "choices": [
+            "Away from V1 (deep S wave) and towards V6 (wide R wave)",
+            "Towards V1 (R' or 'bunny ear' appearance) and away from V6 (slurred S wave)",
+            "Away from both V1 and V6",
+            "Towards both V1 and V6"
+        ],
+        "correct": 1,
+        "explanation": "The lecture explains that in RBBB, the delayed, slow conduction is through the right ventricle. This causes the terminal portion of the QRS to move towards lead V1 (creating the R' wave) and away from the lateral lead V6 (creating the slurred S wave). (timestamp ~50:45)"
+    },
+    {
+        "id": 68,
+        "date": "2025-07-16",
+        "question": "A patient with an inferior MI on EKG should be carefully evaluated for a concurrent posterior wall MI. According to the lecture, what are the classic 'mirror image' findings of a posterior MI seen in the anterior leads (V1-V3)?",
+        "choices": [
+            "ST elevation and new Q waves",
+            "ST depression and prominent R waves",
+            "Deeply inverted T waves",
+            "A short PR interval and delta waves"
+        ],
+        "correct": 1,
+        "explanation": "The lecturer explains that since the posterior wall is the direct opposite of the anterior wall, we look for reciprocal changes. A posterior Q wave (pathologic downward deflection) appears as a prominent R wave (upward deflection) in V1-V2, and posterior ST elevation appears as ST depression in V1-V2. (timestamp ~46:30)"
+    },
+    {
+        "id": 69,
+        "date": "2025-07-17",
+        "question": "According to UPMC policy as described by Dr. Richardson, who is the default team leader during a rapid response or code blue to ensure uniformity across the system?",
+        "choices": [
+            "The most senior medicine resident on scene",
+            "The patient's primary attending physician",
+            "The Critical Care Medicine (CCM) fellow or APP",
+            "The first physician to arrive at the bedside"
+        ],
+        "correct": 2,
+        "explanation": "The lecture clearly states that by UPMC policy, the rapid response team leader, which is the CCM fellow, APP, or resource intensivist, is the default leader for the event to ensure uniformity. (timestamp ~31:20)"
+    },
+    {
+        "id": 70,
+        "date": "2025-07-17",
+        "question": "When the rapid response team arrives at a code, what does Dr. Richardson identify as the single most important action the primary team's resident can take to facilitate efficient and collaborative care?",
+        "choices": [
+            "Immediately start chest compressions.",
+            "Provide a concise and structured SBAR handoff.",
+            "Ensure a recent EKG is printed and available.",
+            "Log into the computer to place orders."
+        ],
+        "correct": 1,
+        "explanation": "Dr. Richardson emphasizes that a good SBAR handoff (Situation, Background, Assessment, Recommendation) is the single most important thing the resident can do to quickly orient the CCM team and work together effectively. (timestamp ~24:30)"
+    },
+    {
+        "id": 71,
+        "date": "2025-07-17",
+        "question": "A patient has stable, narrow-complex tachycardia. Before administering adenosine, Dr. Richardson stresses the importance of obtaining a 12-lead EKG for what specific reason?",
+        "choices": [
+            "To confirm the heart rate is over 150 bpm.",
+            "To rule out underlying atrial fibrillation.",
+            "To check for signs of pre-excitation (e.g., Wolf-Parkinson-White syndrome).",
+            "To document the rhythm before it is terminated."
+        ],
+        "correct": 2,
+        "explanation": "The lecture highlights the danger of giving an AV nodal blocking agent like adenosine to a patient with an accessory pathway (pre-excitation), as this can lead to 1:1 conduction and V-fib. An EKG must be checked for this first. (timestamp ~43:10)"
+    },
+    {
+        "id": 72,
+        "date": "2025-07-17",
+        "question": "A patient with a known DNR/CMO status is in respiratory distress and requires immediate symptom management. According to the lecture, what is the most appropriate way to summon help?",
+        "choices": [
+            "Call a 'Code Blue' to get the full team to the bedside quickly.",
+            "Call a 'Rapid Response' to obtain resources for symptom management.",
+            "Call the ICU directly to ask for a fellow's help.",
+            "Page the patient's primary team and wait for a callback."
+        ],
+        "correct": 1,
+        "explanation": "Dr. Richardson explicitly states that while the team is happy to be a resource for DNR/CMO patients, a 'Rapid Response' should be called. A 'Code Blue' is inappropriate as it mobilizes resources for resuscitation which the patient has already declined. (timestamp ~22:45)"
+    },
+    {
+        "id": 73,
+        "date": "2025-07-17",
+        "question": "In the case of a patient with atrial fibrillation with RVR who is hemodynamically unstable, what is the primary rationale for giving a bolus of amiodarone before synchronized cardioversion?",
+        "choices": [
+            "To rapidly decrease the heart rate before the shock.",
+            "To provide sedation for the cardioversion procedure.",
+            "To increase the likelihood that the cardioversion will be successful and the patient will remain in sinus rhythm.",
+            "To treat the underlying cause of the atrial fibrillation."
+        ],
+        "correct": 2,
+        "explanation": "The lecture explains that for an unstable patient with AFib with RVR, giving a bolus of an anti-dysrhythmic like amiodarone prior to cardioversion can help the cardioversion 'stick' and prevent immediate reversion to AFib. (timestamp ~47:30)"
     }
 ]
