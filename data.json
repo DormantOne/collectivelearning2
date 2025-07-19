@@ -401,5 +401,187 @@
         ],
         "correct": 1,
         "explanation": "The GO-FAR (Good Outcome Following Attempted Resuscitation) score is a validated tool designed specifically to predict outcomes after in-hospital cardiac arrest, serving as an objective resource for clinicians during goals of care discussions."
+    },
+     {
+        "id": 32,
+        "date": "2025-07-08",
+        "question": "According to Dr. Celaj, what are the three key clinical events that define the transition from compensated to decompensated cirrhosis?",
+        "choices": [
+            "Jaundice, coagulopathy, and low albumin",
+            "Ascites, variceal bleeding, and hepatic encephalopathy",
+            "Portal hypertension, splenomegaly, and thrombocytopenia",
+            "Development of HCC, SBP, and AKI-HRS"
+        ],
+        "correct": 1,
+        "explanation": "Dr. Celaj explicitly states that decompensated cirrhosis is defined by three things: ascites (fluid in the belly), variceal bleeding (not just the presence of varices), and hepatic encephalopathy requiring hospitalization. These events mark a significant decline in prognosis, with a median survival of about 1.5 years. (Timestamp: 6:35)"
+    },
+    {
+        "id": 33,
+        "date": "2025-07-08",
+        "question": "A patient with known cirrhosis presents with hematemesis. After stabilizing the patient, Dr. Celaj recommends initiating three classes of medication immediately. What are they?",
+        "choices": [
+            "Beta-blocker, lactulose, and a diuretic",
+            "FFP, platelets, and Vitamin K",
+            "Octreotide, a PPI, and broad-spectrum antibiotics",
+            "IV fluids, an antiemetic, and pain medication"
+        ],
+        "correct": 2,
+        "explanation": "For a suspected variceal bleed, the lecture emphasizes starting two things automatically: Octreotide (to reduce portal pressure) and broad-spectrum antibiotics like ceftriaxone (to prevent SBP). A PPI is also given to cover the possibility of an ulcer. This is the standard initial bundle of care before endoscopy. (Timestamp: 21:33)"
+    },
+    {
+        "id": 34,
+        "date": "2025-07-08",
+        "question": "A cirrhotic patient is hospitalized and undergoes a diagnostic paracentesis. What is the absolute neutrophil count (ANC) cutoff in the ascitic fluid that establishes the diagnosis of Spontaneous Bacterial Peritonitis (SBP)?",
+        "choices": [
+            "Greater than 100 cells/mm³",
+            "Greater than 250 cells/mm³",
+            "Greater than 500 cells/mm³",
+            "Greater than 1000 cells/mm³"
+        ],
+        "correct": 1,
+        "explanation": "The diagnosis of SBP is made based on an ascitic fluid neutrophil count that is above 250. Treatment should be initiated as soon as this cell count is known, without waiting for culture results, which are often negative. (Timestamp: 32:01)"
+    },
+    {
+        "id": 35,
+        "date": "2025-07-08",
+        "question": "In addition to antibiotics, what other crucial therapy must be administered to a patient with SBP to help prevent the development of AKI-HRS (hepatorenal syndrome)?",
+        "choices": [
+            "IV Lactulose",
+            "IV Normal Saline",
+            "IV Albumin",
+            "IV Furosemide"
+        ],
+        "correct": 2,
+        "explanation": "Dr. Celaj emphasizes that in SBP, 'we have to give them albumin.' She explains that there is data showing albumin administration (e.g., 1.5 g/kg on day 1, 1 g/kg on day 3) helps prevent the precipitation of AKI-HRS, a deadly complication of SBP. (Timestamp: 31:18)"
+    },
+    {
+        "id": 36,
+        "date": "2025-07-08",
+        "question": "Dr. Celaj presents a case of new-onset ascites and uses the Serum-Ascites Albumin Gradient (SAAG) to determine the etiology. A high SAAG (≥1.1) is most consistent with what underlying pathophysiology?",
+        "choices": [
+            "Peritoneal inflammation (e.g., TB, carcinomatosis)",
+            "Nephrotic syndrome",
+            "Portal hypertension",
+            "Pancreatitis"
+        ],
+        "correct": 2,
+        "explanation": "The lecture provides a clear schema: a high SAAG (≥1.1) is caused by portal hypertension 90% of the time, typically from cirrhosis or cardiac disease. A low SAAG (<1.1) points toward non-portal hypertensive causes like malignancy, TB, or pancreatic ascites. (Timestamp: 39:43)"
+    },
+    {
+        "id": 37,
+        "date": "2025-07-08",
+        "question": "For a patient with suspected alcohol-associated liver disease, what specific, highly sensitive blood test does Dr. Celaj recommend ordering on admission to detect recent alcohol use?",
+        "choices": [
+            "Mean Corpuscular Volume (MCV)",
+            "A urine toxicology screen",
+            "Gamma-glutamyl transferase (GGT)",
+            "Phosphatidylethanol (PEth)"
+        ],
+        "correct": 3,
+        "explanation": "Dr. Celaj highlights the PEth test as a crucial tool, calling it 'very specific and very sensitive for detecting recent alcohol use.' It is a phospholipid formed only in the presence of ethanol and can remain positive for weeks, making it far superior to a standard alcohol level or urine tox screen. (Timestamp: 44:00)"
+    },
+    {
+        "id": 38,
+        "date": "2025-07-08",
+        "question": "When treating a patient with severe alcoholic hepatitis with steroids, what is the purpose of calculating the Lille score on day 4 or 7?",
+        "choices": [
+            "To determine the initial dose of prednisone.",
+            "To predict the 6-month risk of alcohol relapse.",
+            "To confirm the diagnosis of alcoholic hepatitis.",
+            "To predict which patients will not respond to steroids and have a poor prognosis."
+        ],
+        "correct": 3,
+        "explanation": "The Lille score is used to stratify patients already receiving steroids to predict who will not improve. A score higher than 0.45 suggests they are not steroid responders, have a very poor 6-month survival (~25%), and steroids should be discontinued. (Timestamp: 48:49)"
+    },
+    {
+        "id": 39,
+        "date": "2025-07-08",
+        "question": "What is the most common cause of Acute Kidney Injury (AKI) in patients with cirrhosis, and what is the crucial first step in management?",
+        "choices": [
+            "AKI-HRS; start octreotide and midodrine.",
+            "Acute Tubular Necrosis (ATN); fluid restrict and consult nephrology.",
+            "Prerenal azotemia; hold all diuretics and give an albumin challenge.",
+            "Postrenal obstruction; place a Foley catheter."
+        ],
+        "correct": 2,
+        "explanation": "Dr. Celaj states that the most common cause of AKI in cirrhosis is 'always prerenal.' Therefore, the first and most important step is to fix the easy problem: 'hold all diuretics, hold all water pills, and then start an albumin challenge' to volume expand them before considering a diagnosis of AKI-HRS. (Timestamp: 54:54, 55:03)"
+    },
+    {
+        "id": 40,
+        "date": "2025-07-08",
+        "question": "According to Dr. Celaj, what is the most predominant cause of Acute Liver Failure (ALF) in the United States?",
+        "choices": [
+            "Viral Hepatitis (Hepatitis B)",
+            "Tylenol (acetaminophen) overdose",
+            "Autoimmune hepatitis",
+            "Drug-induced liver injury from antibiotics"
+        ],
+        "correct": 1,
+        "explanation": "Dr. Celaj states that the predominant cause of acute liver failure in the US is Tylenol, accounting for '9 out of 10 times'. This is a critical diagnosis to consider in any patient presenting with acute liver injury, coagulopathy, and encephalopathy without pre-existing liver disease. (Timestamp: 12:37)"
+    },
+	{
+        "id": 41,
+        "date": "2025-07-09",
+        "question": "A 30-year-old patient with Down syndrome presents with chronic loose stools and anemia. Her previous doctor attributed this to her underlying condition. According to Dr. Bulova's opening case, what common, treatable autoimmune condition should be strongly considered?",
+        "choices": [
+            "Crohn's disease",
+            "Rheumatoid arthritis",
+            "Celiac disease",
+            "Lupus"
+        ],
+        "correct": 2,
+        "explanation": "The lecture opens with a case of a patient with Down syndrome whose chronic GI symptoms and anemia were dismissed as part of her condition. The correct diagnosis was Celiac disease, which has a higher prevalence in people with Down syndrome. This highlights the danger of 'diagnostic overshadowing'—attributing new symptoms to a pre-existing disability. (Timestamp: 10:42, 11:09)"
+    },
+    {
+        "id": 42,
+        "date": "2025-07-09",
+        "question": "Drs. Ehrenberger and Bulova emphasize using empowering language. Which of the following phrases is the most appropriate and respectful way to describe a patient's mobility status?",
+        "choices": [
+            "She is wheelchair-bound.",
+            "She is confined to a wheelchair.",
+            "She suffers from cerebral palsy and is in a wheelchair.",
+            "She uses a wheelchair for mobility."
+        ],
+        "correct": 3,
+        "explanation": "The lecture strongly advocates for language that empowers the patient. 'Uses a wheelchair' frames the device as a tool that enables freedom and mobility, whereas 'wheelchair-bound' or 'confined' suggests imprisonment by the device. (Timestamp: 14:25, 29:23)"
+    },
+    {
+        "id": 43,
+        "date": "2025-07-09",
+        "question": "What is the 'disability paradox' as described in the lecture?",
+        "choices": [
+            "Patients with disabilities have worse health outcomes despite receiving more medical care.",
+            "Physicians often assume patients with disabilities have a low quality of life, whereas the patients themselves report a high quality of life.",
+            "Providing accommodations for one disability can create barriers for people with a different disability.",
+            "The most effective medical treatments for people with disabilities are often the least utilized."
+        ],
+        "correct": 1,
+        "explanation": "The disability paradox is the significant discrepancy between external assessments of quality of life (often by physicians, who rate it as low) and the self-reported quality of life from individuals with disabilities (who rate it as high). Recognizing this paradox is crucial to avoid biased decision-making regarding goals of care. (Timestamp: 34:38, 38:58)"
+    },
+    {
+        "id": 44,
+        "date": "2025-07-09",
+        "question": "A patient with a T4 spinal cord injury develops sudden severe hypertension, headache, and tachycardia during a physical exam. What is the most likely diagnosis?",
+        "choices": [
+            "Malignant hyperthermia",
+            "A stroke",
+            "Autonomic dysreflexia",
+            "A hypertensive emergency from medication non-compliance"
+        ],
+        "correct": 2,
+        "explanation": "This classic constellation of symptoms in a patient with a spinal cord injury at or above T6 is highly suggestive of autonomic dysreflexia. It is a medical emergency caused by a noxious stimulus below the level of the injury (e.g., a full bladder) leading to an unopposed sympathetic surge. (Timestamp: 27:00)"
+    },
+    {
+        "id": 45,
+        "date": "2025-07-09",
+        "question": "When approaching a patient who has a ventriculoperitoneal (VP) shunt and a new change in neurologic status, what is a crucial piece of historical information to obtain from the patient or caregiver?",
+        "choices": [
+            "The brand name of the shunt manufacturer.",
+            "The exact date the shunt was placed.",
+            "The patient's stereotypical pattern of what a shunt malfunction looks like for them.",
+            "The result of their last head CT scan, regardless of when it was."
+        ],
+        "correct": 2,
+        "explanation": "Dr. Ehrenberger emphasizes that shunt malfunction symptoms tend to be stereotypical for each individual patient. Asking 'When was the last time you had a shunt malfunction and what did it look like?' is a key question, as one person's pattern (e.g., headache and clumsiness) may differ from another's (e.g., eye pain and nausea). (Timestamp: 43:28)"
     }
 ]
